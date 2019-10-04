@@ -3,7 +3,9 @@
   border: 1px solid grey;
   margin: 0 auto;
 }
-
+#header{
+  height: 100px;
+}
 #brand {
   float: left;
 }
